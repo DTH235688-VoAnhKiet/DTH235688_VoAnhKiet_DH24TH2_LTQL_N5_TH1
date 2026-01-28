@@ -12,7 +12,7 @@ using QuanLybanHang.Data;
 namespace QuanLybanHang.Migrations
 {
     [DbContext(typeof(QLBHDbContext))]
-    [Migration("20260121081305_QLBH")]
+    [Migration("20260128065539_QLBH")]
     partial class QLBH
     {
         /// <inheritdoc />
@@ -35,7 +35,13 @@ namespace QuanLybanHang.Migrations
 
                     b.Property<string>("TenHangSanXuat")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("TenHangSanXuat");
+
+                    b.Property<string>("Tenhangsanxuat")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)")
+                        .HasColumnName("TenHangSanXuatKhac");
 
                     b.HasKey("ID");
 
@@ -254,7 +260,7 @@ namespace QuanLybanHang.Migrations
             modelBuilder.Entity("QuanLybanHang.Data.sanpham", b =>
                 {
                     b.HasOne("QuanLybanHang.Data.Hangsanxuat", "Hangsanxuat")
-                        .WithMany("sanpham")
+                        .WithMany()
                         .HasForeignKey("HangSanXuatID")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -268,11 +274,6 @@ namespace QuanLybanHang.Migrations
                     b.Navigation("Hangsanxuat");
 
                     b.Navigation("Loaisanpham");
-                });
-
-            modelBuilder.Entity("QuanLybanHang.Data.Hangsanxuat", b =>
-                {
-                    b.Navigation("sanpham");
                 });
 
             modelBuilder.Entity("QuanLybanHang.Data.HoaDon", b =>

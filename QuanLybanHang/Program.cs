@@ -12,6 +12,8 @@ namespace QuanLybanHang
             ApplicationConfiguration.Initialize();
             Application.Run(new frmHangSanXuat());
             Application.Run(new frmLoaiSanPham());
+            Application.Run(new frmKhachHang());
+
         }
     }
 }

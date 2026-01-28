@@ -17,7 +17,8 @@ namespace QuanLybanHang.Migrations
                 {
                     ID = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    TenHangSanXuat = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    TenHangSanXuat = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    TenHangSanXuatKhac = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
