@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kiet\\Downloads\\QuanLyBanHangBuoi3\\QuanLyBanHangBuoi3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3327395C-99F9-4038-AC36-BAE5B73C1270}|QuanLyBanHang\\QuanLyBanHang.csproj|c:\\users\\kiet\\downloads\\quanlybanhangbuoi3\\quanlybanhangbuoi3\\quanlybanhang\\forms\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3327395C-99F9-4038-AC36-BAE5B73C1270}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\forms\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3327395C-99F9-4038-AC36-BAE5B73C1270}|QuanLyBanHang\\QuanLyBanHang.csproj|c:\\users\\kiet\\downloads\\quanlybanhangbuoi3\\quanlybanhangbuoi3\\quanlybanhang\\forms\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3327395C-99F9-4038-AC36-BAE5B73C1270}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\forms\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3327395C-99F9-4038-AC36-BAE5B73C1270}|QuanLyBanHang\\QuanLyBanHang.csproj|c:\\users\\kiet\\downloads\\quanlybanhangbuoi3\\quanlybanhangbuoi3\\quanlybanhang\\data\\qlbhdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3327395C-99F9-4038-AC36-BAE5B73C1270}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\data\\qlbhdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3327395C-99F9-4038-AC36-BAE5B73C1270}|QuanLyBanHang\\QuanLyBanHang.csproj|c:\\users\\kiet\\downloads\\quanlybanhangbuoi3\\quanlybanhangbuoi3\\quanlybanhang\\migrations\\qlbhdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3327395C-99F9-4038-AC36-BAE5B73C1270}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\migrations\\qlbhdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3327395C-99F9-4038-AC36-BAE5B73C1270}|QuanLyBanHang\\QuanLyBanHang.csproj|c:\\users\\kiet\\downloads\\quanlybanhangbuoi3\\quanlybanhangbuoi3\\quanlybanhang\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3327395C-99F9-4038-AC36-BAE5B73C1270}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3327395C-99F9-4038-AC36-BAE5B73C1270}|QuanLyBanHang\\QuanLyBanHang.csproj|C:\\Users\\kiet\\Downloads\\QuanLyBanHangBuoi3\\QuanLyBanHangBuoi3\\quanlybanhang\\forms\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3327395C-99F9-4038-AC36-BAE5B73C1270}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\forms\\frmsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3327395C-99F9-4038-AC36-BAE5B73C1270}|QuanLyBanHang\\QuanLyBanHang.csproj|c:\\users\\kiet\\downloads\\quanlybanhangbuoi3\\quanlybanhangbuoi3\\quanlybanhang\\data\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3327395C-99F9-4038-AC36-BAE5B73C1270}|QuanLyBanHang\\QuanLyBanHang.csproj|solutionrelative:quanlybanhang\\data\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kiet\\Downloads\\QuanLyBanHangBuoi3\\QuanLyBanHangBuoi3\\QuanLyBanHang\\Forms\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Forms\\frmHoaDon.cs",
+              "ToolTip": "C:\\Users\\kiet\\Downloads\\QuanLyBanHangBuoi3\\QuanLyBanHangBuoi3\\QuanLyBanHang\\Forms\\frmHoaDon.cs [Design]",
+              "RelativeToolTip": "QuanLyBanHang\\Forms\\frmHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T07:14:40.835Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QLBHDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kiet\\Downloads\\QuanLyBanHangBuoi3\\QuanLyBanHangBuoi3\\QuanLyBanHang\\Data\\QLBHDbContext.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Data\\QLBHDbContext.cs",
+              "ToolTip": "C:\\Users\\kiet\\Downloads\\QuanLyBanHangBuoi3\\QuanLyBanHangBuoi3\\QuanLyBanHang\\Data\\QLBHDbContext.cs",
+              "RelativeToolTip": "QuanLyBanHang\\Data\\QLBHDbContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA8wBkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T06:58:21.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QLBHDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\kiet\\Downloads\\QuanLyBanHangBuoi3\\QuanLyBanHangBuoi3\\QuanLyBanHang\\Migrations\\QLBHDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Migrations\\QLBHDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\kiet\\Downloads\\QuanLyBanHangBuoi3\\QuanLyBanHangBuoi3\\QuanLyBanHang\\Migrations\\QLBHDbContextModelSnapshot.cs",
+              "RelativeToolTip": "QuanLyBanHang\\Migrations\\QLBHDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T06:41:38.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\kiet\\Downloads\\QuanLyBanHangBuoi3\\QuanLyBanHangBuoi3\\QuanLyBanHang\\App.config",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\App.config",
+              "ToolTip": "C:\\Users\\kiet\\Downloads\\QuanLyBanHangBuoi3\\QuanLyBanHangBuoi3\\QuanLyBanHang\\App.config",
+              "RelativeToolTip": "QuanLyBanHang\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-02-24T06:40:34.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "C:\\Users\\kiet\\Downloads\\QuanLyBanHangBuoi3\\QuanLyBanHangBuoi3\\QuanLyBanHang\\Data\\SanPham.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Data\\SanPham.cs",
+              "ToolTip": "C:\\Users\\kiet\\Downloads\\QuanLyBanHangBuoi3\\QuanLyBanHangBuoi3\\QuanLyBanHang\\Data\\SanPham.cs",
+              "RelativeToolTip": "QuanLyBanHang\\Data\\SanPham.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T06:21:31.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmSanPham.cs",
+              "DocumentMoniker": "C:\\Users\\kiet\\Downloads\\QuanLyBanHangBuoi3\\QuanLyBanHangBuoi3\\QuanLyBanHang\\Forms\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Forms\\frmSanPham.cs",
+              "ToolTip": "C:\\Users\\kiet\\Downloads\\QuanLyBanHangBuoi3\\QuanLyBanHangBuoi3\\QuanLyBanHang\\Forms\\frmSanPham.cs",
+              "RelativeToolTip": "QuanLyBanHang\\Forms\\frmSanPham.cs",
+              "ViewState": "AgIAAD0BAAAAAAAAAAAAwDIBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T06:20:13.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmSanPham.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\kiet\\Downloads\\QuanLyBanHangBuoi3\\QuanLyBanHangBuoi3\\QuanLyBanHang\\Forms\\frmSanPham.cs",
+              "RelativeDocumentMoniker": "QuanLyBanHang\\Forms\\frmSanPham.cs",
+              "ToolTip": "C:\\Users\\kiet\\Downloads\\QuanLyBanHangBuoi3\\QuanLyBanHangBuoi3\\QuanLyBanHang\\Forms\\frmSanPham.cs [Design]",
+              "RelativeToolTip": "QuanLyBanHang\\Forms\\frmSanPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T15:21:22.671Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
